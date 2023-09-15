@@ -3,4 +3,4 @@
 	url = ./frontend
 [submodule "chatty-backend"]
 	path = chatty-backend
-	url = ./chatty-backend
+	url = .\\chatty-backend\\
