@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend
+[submodule "chatty-backend"]
+	path = chatty-backend
+	url = ./chatty-backend
